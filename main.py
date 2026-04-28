@@ -5,7 +5,7 @@ st.title("My First Streamlit App")
 st.write("Hello! Creating a simple web application using stremlit library.")
 
 #Text input 
-name=st.text_input("Enter your namr :")
+name=st.text_input("Enter your nam:")
 #Number input
 age=st.number_input("Enter your age :")
 
